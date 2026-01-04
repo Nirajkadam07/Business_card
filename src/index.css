@@ -1,0 +1,6 @@
+@media (min-width: 768px) {
+  #root {
+    max-width: 375px;
+    margin: 0 auto;
+  }
+}
